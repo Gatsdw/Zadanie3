@@ -10,8 +10,6 @@ ext_junit = "1.1.5"
 espresso_core = "3.5.1"
 
 [libraries]
-kotlin-stdlib = { group = "org.jetbrains.kotlin", name = "kotlin-stdlib", version.ref = "kotlin" }
-kotlin-stdlib-jdk8 = { group = "org.jetbrains.kotlin", name = "kotlin-stdlib-jdk8", version.ref = "kotlin" }
 appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
 material = { module = "com.google.android.material:material", version.ref = "material" }
 activity = { module = "androidx.activity:activity-ktx", version.ref = "activity" }

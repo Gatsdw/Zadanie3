@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int count = 0; // Counter value
+    private int count = 0;
     private Button buttonIncrement;
     private Switch sSwitch;
     private EditText editText;
